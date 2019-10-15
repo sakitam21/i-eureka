@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.loginContainer{
+	padding-top: 60px;
+}
+
+.loginTitle{
+	padding: 20px 0;
+}
+
+.form-group{
+	margin: 5px auto;
+}
+
+.form-group .form-control{
+	width: 30%;
+	max-width: 200px;
+	height: 26px;
+	border-radius: 5px;
+	margin-left: 10px;
+}
+
+.loginSubmit{
+	width: 10%;
+	max-width: 60px;
+	height: 20px;
+	border-radius: 5px;
+}
